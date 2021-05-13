@@ -1,0 +1,12 @@
+
+1 /* This application program displays Programming is fun!
+2 * in a message dialog box.
+3 */
+4
+5
+6 public class ProgrammingisFunMessageDialogBox { 
+7 public static void main(String[] args) { 
+8 // Display Programming is Fun! in a message dialog box
+9
+10 }
+11 }
